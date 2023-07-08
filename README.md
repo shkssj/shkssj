@@ -2,7 +2,7 @@ Front End developer
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue,lua," alt="HTML5" /></a>
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue,lua,nuxt" alt="HTML5" /></a>
 
 ### Learning
 
