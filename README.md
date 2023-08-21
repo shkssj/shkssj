@@ -1,4 +1,4 @@
-Front End developer
+Front End developer\n
 Currently working on [RX Academy](https://discord.gg/rxacademy)
 
 ### Skills
