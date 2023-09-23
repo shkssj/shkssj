@@ -1,6 +1,7 @@
 Front End developer
 
-Currently working on [RX Academy](https://discord.gg/rxacademy)
+My Project [RX Academy](https://discord.gg/rxacademy)
+Currently working on the biggest FiveM Project ever.
 
 ### Skills
 
