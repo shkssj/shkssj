@@ -1,6 +1,8 @@
-Front End developer
+Front-End Developer
 
-My Project [RX Academy](https://discord.gg/rxacademy)
+My Projects
+- [RX Academy](https://discord.gg/rxacademy)
+- [FML PvP](https://discord.gg/fmlpvp)
 
 ### Skills
 
