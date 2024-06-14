@@ -25,7 +25,7 @@
 <br>
 ### 📕 &nbsp;Projects
 - [RX Academy](https://discord.gg/rxacademy)
-- [FML PvP](https://discord.gg/fmlpvp)
+- [FML PvP - Sold](https://discord.gg/fmlpvp)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
