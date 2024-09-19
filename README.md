@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Remix](https://img.shields.io/badge/-Remix-05122A?style=flat&logo=remix)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
 ![Solid](https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid)&nbsp;
