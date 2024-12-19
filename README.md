@@ -27,6 +27,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 <br>
 ### 📕 &nbsp;Projects
+- [ZONA Battle Royale](https://discord.gg/zonabr)
 - [RX Academy](https://discord.gg/rxacademy)
 - [FML PvP - Sold](https://discord.gg/fmlpvp)
 
