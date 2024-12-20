@@ -10,6 +10,7 @@
 ![Remix](https://img.shields.io/badge/-Remix-05122A?style=flat&logo=remix)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
+![Nest](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
 ![Solid](https://img.shields.io/badge/-Solid-05122A?style=flat&logo=solid)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
