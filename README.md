@@ -21,15 +21,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=b07bf3)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)\
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)&nbsp;
 <br>
 ### 📕 &nbsp;Projects
 - [Remix RP](https://discord.gg/remix)
-- [ZONA Battle Royale](https://discord.gg/zonabr)
+- [ZONA Battle Royale - Paused](https://discord.gg/zonabr)
 - [RX Academy](https://discord.gg/rxacademy)
 - [FML PvP - Sold](https://discord.gg/fmlpvp)
 
