@@ -11,6 +11,7 @@
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Remix](https://img.shields.io/badge/-Remix-05122A?style=flat&logo=remix)
