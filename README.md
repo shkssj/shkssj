@@ -36,7 +36,6 @@
 
 ## 🧩 Featured Projects
 
-- [Remix RP](https://discord.gg/remix) — NO-WL (Roleplay)
-- [ZONA Battle Royale](https://discord.gg/zonabr) — *Paused* Battle Royale
+- [Remix RP](https://discord.gg/remix) — Roleplay
 - [RX Academy](https://discord.gg/rxacademy) — Academy
 - [FML PvP](https://discord.gg/fmlpvp) — *Sold* PvP Server
