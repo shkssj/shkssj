@@ -20,7 +20,7 @@
 <br />
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,mongodb,postgres,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,tauri,mongodb,postgres,mysql,git" />
 </a>
 
 </div>
