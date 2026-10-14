@@ -1,7 +1,11 @@
-<div align="center">
-
 # shkssj
 **Frontend Developer**
+
+**Founder** and **Developer** of Element Labs
+<br />
+https://shop.elementlabs.net
+<br />
+https://discord.gg/elementlabs
 
 <br />
 
@@ -22,5 +26,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,tauri,mongodb,postgres,mysql,git" />
 </a>
-
-</div>
