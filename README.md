@@ -1,5 +1,4 @@
-# shkssj
-**Frontend Developer**
+# Frontend Developer
 
 **Founder** and **Developer** of Element Labs
 <br />
